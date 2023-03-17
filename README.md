@@ -1,3 +1,7 @@
+Game called Tenzies. 
+You have 10 dice. 
+Goal is have the least amount of rolls possible to get all 10 die faces matching with the same number. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
