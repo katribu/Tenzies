@@ -52,7 +52,6 @@ header h1 {
   grid-template-columns: repeat(auto-fit, 100px);
   gap: 20px;
   margin: 0 auto;
-  border: white solid 2px;
   max-width: 95%;
 }
 
