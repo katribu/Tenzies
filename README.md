@@ -1,3 +1,5 @@
+adkhalskdhalksdfhalskdjfh
+
 Game called Tenzies. 
 You have 10 dice. 
 Goal is have the least amount of rolls possible to get all 10 die faces matching with the same number. 
